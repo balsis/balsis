@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋I'm Artur. Starting QA engineer.
+
+    
+   My CodeWars Profile:   
+<img src="https://www.codewars.com/users/balsis/badges/large">
+
+
+<a href="https://github.com/balsis">
+    <img src="https://komarev.com/ghpvc/?username=balsis&style=for-the-badge"> </a> 
 
 <!--
 **balsis/balsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
