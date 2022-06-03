@@ -1,4 +1,4 @@
-### Hi there 👋I'm Artur. Starting QA engineer.
+### Hi there 👋I'm Artur. 
 
     
    My CodeWars Profile:   
