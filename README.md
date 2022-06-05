@@ -1,7 +1,7 @@
 ### Hi there 👋I'm Artur. 
 
     
-   My CodeWars Profile:   
+  My progress in JS:   
 <img src="https://www.codewars.com/users/balsis/badges/small">
 
 
