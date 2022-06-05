@@ -2,7 +2,7 @@
 
     
    My CodeWars Profile:   
-<img src="https://www.codewars.com/users/balsis/badges/large">
+<img src="https://www.codewars.com/users/balsis/badges/small">
 
 
 
