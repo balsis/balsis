@@ -10,7 +10,6 @@ My contacts:
 [<img src='https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png' alt='Postman' height='40'>](https://github.com/balsis) - тестовые запросы Postman.  
 
 
-
 Немного решаю задачки на JS:   
 [<img src='https://www.codewars.com/users/balsis/badges/small' alt='Codewars' height='25'>](https://github.com/balsis/codewars/blob/main/8kyu.js)
 
