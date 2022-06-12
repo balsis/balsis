@@ -6,6 +6,7 @@ My contacts:
 [<img src='https://icon-library.com/images/gmail-png-icon/gmail-png-icon-6.jpg' alt='Gmail' height='40'>](mailto:artur.balsis@gmail.com)
 
 [<img src='https://icon-library.com/images/terminal-icon/terminal-icon-6.jpg' alt='JS repo' height='40'>](https://github.com/balsis/linux_terminal) - практика Linux terminal  
+[<img src='https://guillaume.techene.net/wp-content/uploads/2021/06/git-icon.png' alt='JS repo' height='40'>](https://github.com/balsis/JSON) -практика с GIT.  
 [<img src='https://icon-library.com/images/javascript-icon/javascript-icon-17.jpg' alt='JS repo' height='40'>](https://github.com/balsis/JS_conspectus/blob/main/script.js) - мои конспекты по JS.  
 [<img src='https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png' alt='Postman' height='40'>](https://github.com/balsis) - тестовые запросы Postman.  
 
