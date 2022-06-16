@@ -5,7 +5,7 @@ My contacts:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png' alt='Telegram' height='40'>](https://t.me/artbalsis)
 [<img src='https://icon-library.com/images/gmail-png-icon/gmail-png-icon-6.jpg' alt='Gmail' height='40'>](mailto:artur.balsis@gmail.com)
 
-[<img src='https://community-assets.home-assistant.io/optimized/3X/6/a/6a99ebb8d0b585a00b407123ff76964cb3e18780_2_500x500.png' alt='Postman' height='40'>](https://github.com/balsis/postman) - конфиг Home Assistant.  
+[<img src='https://community-assets.home-assistant.io/optimized/3X/6/a/6a99ebb8d0b585a00b407123ff76964cb3e18780_2_500x500.png' alt='Postman' height='40'>](https://github.com/balsis/homeassistant) - конфиг Home Assistant.  
 [<img src='https://icon-library.com/images/terminal-icon/terminal-icon-6.jpg' alt='JS repo' height='40'>](https://github.com/balsis/linux_terminal) - практика Linux terminal  
 [<img src='https://guillaume.techene.net/wp-content/uploads/2021/06/git-icon.png' alt='JS repo' height='40'>](https://github.com/balsis/JSON) -практика GIT.  
 [<img src='https://icon-library.com/images/javascript-icon/javascript-icon-17.jpg' alt='JS repo' height='40'>](https://github.com/balsis/JS_HW) - домашки по JS.  
