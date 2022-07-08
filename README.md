@@ -15,7 +15,6 @@ My contacts:
 
 
 
-
 Немного решаю задачки на JS:   
 [<img src='https://www.codewars.com/users/balsis/badges/small' alt='Codewars' height='25'>](https://github.com/balsis/codewars/blob/main/8kyu.js)
 
