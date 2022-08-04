@@ -10,11 +10,13 @@ My Skills:
 [<img src='https://guillaume.techene.net/wp-content/uploads/2021/06/git-icon.png' alt='JS repo' height='40'>](https://github.com/balsis/JSON)
 [<img src='https://icon-library.com/images/javascript-icon/javascript-icon-17.jpg' alt='JS repo' height='40'>](https://github.com/balsis/JS_HW) 
 [<img src='https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png' alt='Postman' height='40'>](https://github.com/balsis/postman)
-[<img src='https://github.com/balsis/pics/blob/main/sql.png' alt='SQL' height='40'>](https://github.com/balsis/Interactive-SQL-Trainer)  
+[<img src='https://github.com/balsis/pics/blob/main/sql.png' alt='SQL' height='40'>](https://github.com/balsis/Interactive-SQL-Trainer)
+[<img src='https://github.com/balsis/pics/blob/main/atlassian_jira_logo_icon_170511.png' alt='Jira' height='40'>](https://github.com/balsis/pics/blob/main/certificate_jira.pdf)  
 My hobbies:  
 [<img src='https://community-assets.home-assistant.io/optimized/3X/6/a/6a99ebb8d0b585a00b407123ff76964cb3e18780_2_500x500.png' alt='HA' height='40'>](https://github.com/balsis/homeassistant)
-[<img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' alt='HA' height='40'>](https://github.com/balsis/homeassistant)
-[<img src='https://raw.githubusercontent.com/docker-library/docs/757578e3a44e5460a8a11d32a81776f8b74231a9/eclipse-mosquitto/logo.png' alt='HA' height='40'>](https://github.com/balsis/homeassistant)
+[<img src='https://raw.githubusercontent.com/docker-library/docs/757578e3a44e5460a8a11d32a81776f8b74231a9/eclipse-mosquitto/logo.png' alt='MQTT' height='40'>](https://github.com/balsis/homeassistant)
+[<img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' alt='Docker' height='40'>](https://github.com/balsis/homeassistant)
+
 
 
 
