@@ -19,7 +19,7 @@
   
 **Конфиг железа**: Gigabyte Brix GB-BACE-3160 + Zigbee2MQTT (SONOFF Zigbee 3.0 USB Dongle)+ MQTT + Xiaomi Gateway 3;  
 **Zigbee2MQTT**: 15 устройств (отопление, выключатели, теплый пол);  
-**Xiaomi Gateway 3**: 16 устройств (датчики xiaomi);  
+**Xiaomi Gateway 3**: 16 устройств (датчики Xiaomi);  
 **Passive BLE**: около 5 устройств;  
 **Wifi**: Smartmi Humidifier, Philips Light Bulb, WLED подсветка, камера Tapo С110;  
 **ADB**: Amazon Fire 4k max, Sberbox.
