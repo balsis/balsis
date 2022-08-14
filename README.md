@@ -10,8 +10,9 @@
 [<img src='https://guillaume.techene.net/wp-content/uploads/2021/06/git-icon.png' alt='JS repo' height='40'>](https://github.com/balsis/JSON)
 [<img src='https://icon-library.com/images/javascript-icon/javascript-icon-17.jpg' alt='JS repo' height='40'>](https://github.com/balsis/JS_HW) 
 [<img src='https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png' alt='Postman' height='40'>](https://github.com/balsis/postman)
+<img src='https://www.lenar.io/img/fiddler-logo.png' alt='Jira' height='40'>
 [<img src='https://github.com/balsis/pics/blob/main/sql.png' alt='SQL' height='40'>](https://github.com/balsis/Interactive-SQL-Trainer)
-[<img src='https://github.com/balsis/pics/blob/main/atlassian_jira_logo_icon_170511.png' alt='Jira' height='40'>](https://github.com/balsis/pics/blob/main/certificate_jira.pdf)  
+[<img src='https://github.com/balsis/pics/blob/main/atlassian_jira_logo_icon_170511.png' alt='Jira' height='40'>](https://github.com/balsis/pics/blob/main/certificate_jira.pdf)
 
 
 <details>
