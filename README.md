@@ -15,16 +15,7 @@
 [<img src='https://github.com/balsis/pics/blob/main/atlassian_jira_logo_icon_170511.png' alt='Jira' height='40'>](https://github.com/balsis/pics/blob/main/certificate_jira.pdf)
 
 
-<details>
-  <summary>Немного увлекаюсь умнодомом:</summary>
-  
-**Конфиг железа**: Gigabyte Brix GB-BACE-3160 + Zigbee2MQTT (SONOFF Zigbee 3.0 USB Dongle)+ MQTT + Xiaomi Gateway 3;  
-**Zigbee2MQTT**: 15 устройств (отопление, выключатели, теплый пол);  
-**Xiaomi Gateway 3**: 16 устройств (датчики Xiaomi);  
-**Passive BLE**: около 5 устройств;  
-**Wifi**: Smartmi Humidifier, Philips Light Bulb, WLED подсветка, камера Tapo С110;  
-**ADB**: Amazon Fire 4k max, Sberbox.
-</details>
+**Немного увлекаюсь умнодомом:**   
 
 [<img src='https://community-assets.home-assistant.io/optimized/3X/6/a/6a99ebb8d0b585a00b407123ff76964cb3e18780_2_500x500.png' alt='HA' height='40'>](https://github.com/balsis/homeassistant)
 [<img src='https://raw.githubusercontent.com/docker-library/docs/757578e3a44e5460a8a11d32a81776f8b74231a9/eclipse-mosquitto/logo.png' alt='MQTT' height='40'>](https://github.com/balsis/homeassistant)
