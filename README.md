@@ -19,7 +19,8 @@
    
 [Подборка полезных материалов "QA Handbook"](https://github.com/balsis/QA-handbook "Handbook")  
 [Конфигурация сервера Home Assistant в Docker](https://github.com/balsis/homeassistant "HA")    
-[Настройка NUT для IPPON 650 UPS с USB в Debian 10](https://github.com/balsis/homeassistant/blob/main/nut.md "NUT")
+[Настройка NUT для IPPON 650 UPS с USB в Debian 10](https://github.com/balsis/homeassistant/blob/main/nut.md "NUT")  
+[Настройка домашнего медиасервера с помощью Docker Compose](https://github.com/balsis/docker "Docker")
 
 
 
