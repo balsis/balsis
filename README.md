@@ -14,13 +14,13 @@
 * Клиент-серверная архитектура и HTTP-протокол.
 * Chrome DevTools.
 * Charles Proxy, Android Studio.
-* Docker, Docker compose, Portainer 
+* Docker, Docker compose, Portainer [ [link](https://github.com/balsis/docker/tree/main/docker%20course "Docker") ]
 * SQL на уровне написания простых запросов [ [link](https://github.com/balsis/Interactive-SQL-Trainer "SQL") ]
    
 [Подборка полезных материалов "QA Handbook"](https://github.com/balsis/QA-handbook "Handbook")  
 [Конфигурация сервера Home Assistant в Docker](https://github.com/balsis/homeassistant "HA")    
 [Настройка NUT для IPPON 650 UPS с USB в Debian 10](https://github.com/balsis/homeassistant/blob/main/nut.md "NUT")  
-[Настройка домашнего медиасервера с помощью Docker Compose](https://github.com/balsis/docker "Docker")
+[Настройка домашнего медиасервера с помощью Docker Compose](https://github.com/balsis/docker/tree/main/mediaserver "Docker")
 
 
 
