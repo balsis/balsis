@@ -13,7 +13,7 @@
 * Техники тест-дизайна.
 * Клиент-серверная архитектура и HTTP-протокол.
 * Chrome DevTools.
-* Charles Proxy, Android Studio.
+* Charles Proxy, Android Studio, ADB [ [link](https://github.com/balsis/mobile "ADB") ]
 * Docker, Docker compose, Portainer [ [link](https://github.com/balsis/docker/tree/main/docker%20course "Docker") ]
 * SQL на уровне написания простых запросов [ [link](https://github.com/balsis/Interactive-SQL-Trainer "SQL") ]
    
