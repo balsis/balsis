@@ -1,5 +1,6 @@
 ### Всем привет 👋Я Артур  
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balsis&show_icons=true&theme=tokyonight)
+
 **Мои контакты:**
 
 [<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='Linkedin' height='40'>](https://www.linkedin.com/in/artur-balsis-256a95238/)
